@@ -62,6 +62,31 @@ Configuration Parameters
   
 Feel free to adjust these values to fit your specific loan calculation requirements.
 
+# Loan Calculator
+
+...
+
+## Testing
+
+The Loan Calculator project includes a suite of tests to ensure the correctness of its functionalities. Below are instructions on how to run the tests:
+
+### Prerequisites
+
+Make sure you have the following set up before running the tests:
+
+- Java Development Kit (JDK) installed
+- Gradle build tool installed (optional, you can use the provided Gradle wrapper)
+
+### Running Tests
+
+1. Open a terminal window and navigate to the project root directory.
+
+2. Run the following command to execute the tests:
+
+   ```bash
+   ./gradlew test
+
+
 ## Dependencies
 - Java 17
 - Gradle
