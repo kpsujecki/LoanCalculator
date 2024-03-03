@@ -62,10 +62,6 @@ Configuration Parameters
   
 Feel free to adjust these values to fit your specific loan calculation requirements.
 
-# Loan Calculator
-
-...
-
 ## Testing
 
 The Loan Calculator project includes a suite of tests to ensure the correctness of its functionalities. Below are instructions on how to run the tests:
